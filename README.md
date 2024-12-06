@@ -1,4 +1,4 @@
-# Diabetes-Health-Indicators
+<h1> <a href="https://colab.research.google.com/drive/1AC0n_QvejtIEMDWaPZPRriCu6ZwOBBGT?usp=sharing">Diabetes-Health-Indicators </a> </h1>
 <p>When discussing ML projects related to diabetes, key health indicators often include: Body Mass Index (BMI), age, blood pressure, cholesterol levels, fasting blood glucose, family history of diabetes, waist circumference, physical activity level, smoking status, and sometimes even socioeconomic factors; these variables are used to build machine learning models that can predict the risk of developing diabetes or identify individuals who might be prediabetic, enabling early intervention and preventative measures</p>
 
 <p>The Diabetes Health Indicators Dataset contains healthcare statistics and lifestyle survey information about people in general along with their diagnosis of diabetes. The 35 features consist of some demographics, lab test results, and answers to survey questions for each patient. The target variable for classification is whether a patient has diabetes, is pre-diabetic, or healthy</p>
@@ -60,6 +60,6 @@
    <li>Naive-Bayes: Can effectively handle complex, non-linear relationships between features. </li>
 </ul>
 
-
+<h1> <a href="https://colab.research.google.com/drive/1AC0n_QvejtIEMDWaPZPRriCu6ZwOBBGT?usp=sharing">Diabetes-Health-Indicators Google colab</a> </h1>
 
 
